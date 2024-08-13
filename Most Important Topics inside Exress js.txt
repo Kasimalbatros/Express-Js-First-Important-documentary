@@ -1,0 +1,24 @@
+Most Important Topics inside Exress js  ?
+
+1. Postman. why postman ?  (Postman Collection Important term)
+2. Middleware (body-parser((what body parser do)),morgan)
+3. custom middleware (Mainly used while authentication,logging)
+4. Http Rsponse status code 
+5. Http 5 method request (GET,POST,PUT,PATCH,DELETE)
+6. Nodemon
+7. Localhost + port + Server.
+8. How to start the nodemon in vscode.
+if error comes make changes in Package.json file
+,
+"start":"node index.js"
+"dev":"nodemon index.js"
+
+npm run dev  -----> nodemon started executing.
+
+9. How to connect VC code with Postman.
+10. Basic UI of Postman
+11. How to run the code on localHost.
+12. How to set commmandline path or Address (give the folder name where index.js is present)
+13. Video 204 (Most important)
+---> Showing how to run the Vs code + check on postman+ use middleware(procedure written
+inside notes , or watch video )
